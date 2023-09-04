@@ -540,7 +540,7 @@ span{
 
 
 
-/*-----MEDIA_QUERY-----*/
+/*------380px-------------MEDIA_QUERY-------------380px-----------*/
 /*-----MEDIA_QUERY-----Responsive Design - adaptable a dispositivos moviles*/
 /*-----MEDIA_QUERY-----*/
 
@@ -1244,7 +1244,7 @@ span{
         cursor: pointer;
         transform: translateX(0px);
         padding: 1.5em;
-        right: -100%; /*NO SE VE MENU*/
+        right: 0%; /*NO SE VE MENU*/
     }
 
     #icon-menu {
